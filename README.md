@@ -1,4 +1,6 @@
 # Frogger-SFML
+#### This project was a part of Fundamentals of Computing 2 Course at the American University in Cairo (AUC)
+
 This is a Frogger Game developed using SFML Graphics Library C++. 
 The images of the game were originally designed by the team. The soundtracks and fonts were obtained online.
 To run the game:
